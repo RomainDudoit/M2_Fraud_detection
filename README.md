@@ -1,1 +1,1 @@
-# M2_Fraud_detection
+# Classification dans un contexte déséquilibré, une application à la fraude bancaire
